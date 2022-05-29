@@ -109,7 +109,7 @@ Uğurlar hər kəsə.
 1. [Go dilinin rəsmi səhifəsi](https://go.dev/)
 2. [Go wiki səhifəsi](https://en.wikipedia.org/wiki/Go_(programming_language))
 3. [Go dilini xüsusi edən nədir?](https://tproger.ru/translations/chto-delaet-go-takim-neobychnym/)
-4. [Go dilinə ilk addımlar](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/)
+4. [Go dilinə ilk addımlar - Microsoft öyrətim mərkəzi](https://docs.microsoft.com/en-us/learn/modules/go-get-started/1-what-is-go?ns-enrollment-type=learningpath&ns-enrollment-id=learn.languages.go-first-steps)
 
 
 
