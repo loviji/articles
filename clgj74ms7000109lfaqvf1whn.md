@@ -1,5 +1,7 @@
 ---
 title: "Ubuntu əməliyyat sistemlərinin yenilənməsi strategiyası"
+seoTitle: "Ubuntu upgrade update EOL ESM End Of Life"
+seoDescription: "Ubuntu əməliyyat sistemlərinin yenilənməsi - upgrade edilməsi"
 datePublished: Sun Apr 16 2023 09:19:54 GMT+0000 (Coordinated Universal Time)
 cuid: clgj74ms7000109lfaqvf1whn
 slug: ubuntu-emeliyyat-sistemlerinin-yenilenmesi-strategiyasi
