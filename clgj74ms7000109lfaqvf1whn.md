@@ -5,6 +5,7 @@ seoDescription: "Ubuntu əməliyyat sistemlərinin yenilənməsi - upgrade edilm
 datePublished: Sun Apr 16 2023 09:19:54 GMT+0000 (Coordinated Universal Time)
 cuid: clgj74ms7000109lfaqvf1whn
 slug: ubuntu-emeliyyat-sistemlerinin-yenilenmesi-strategiyasi
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681639853386/16c78081-45bc-4c70-8fa5-f828ed427ebe.webp
 tags: ubuntu, linux, canonical, ubuntu-1804
 
 ---
